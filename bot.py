@@ -2,7 +2,8 @@
 objetivos:
 obligatorios:
 que el bot haga una trivia de preguntas y respuestas
-que cuente curiosisdades aleatorias sobre el medio ambiente (Api de curiosidades)
+
+/que cuente curiosisdades aleatorias sobre el medio ambiente/
 
 
 opcional:
