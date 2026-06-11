@@ -36,7 +36,7 @@ async def curiosidad(ctx):
 #dejar el comando help al final, para no perderlo de vista, recordar actualizar cadaque se añada un nuevo comando
 @bot.command()
 async def help(ctx):
-    await ctx.send("Comandos disponibles:\n/help - Muestra esta lista de comandos\n/curiosidad - muestra una curiosidad sobre el medio ambiente\n/trivia - inicia una trivia sobre el medio ambiente")
+    await ctx.send("Comandos disponibles:\n/help - Muestra esta lista de comandos\n/curiosidad - muestra una curiosidad sobre el medio ambiente\n/trivia - inicia una trivia sobre el medio ambiented")
 
 
 token = ("TU_TOKEN_AQUI")
