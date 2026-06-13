@@ -1,0 +1,1037 @@
+[
+    {
+        "pregunta": "¿Cuánto tarda aproximadamente una botella de plástico en descomponerse en la naturaleza?",
+        "opciones": ["100 años", "450 años", "50 años"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué porcentaje del oxígeno mundial produce el océano?",
+        "opciones": ["30%", "50%", "70%"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el gas de efecto invernadero más abundante en la atmósfera?",
+        "opciones": ["Dióxido de carbono (CO2)", "Vapor de agua", "Metano"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuántos árboles se tala aproximadamente por segundo en el mundo?",
+        "opciones": ["100 árboles", "500 árboles", "1000 árboles"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué significa las '3R' en ecología?",
+        "opciones": ["Reducir, Reutilizar, Reciclar", "Respetar, Restaurar, Renovar", "Riego, Raíces, Riqueza"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuál es el principal contaminante de los océanos?",
+        "opciones": ["Derrames de petróleo", "Plásticos", "Metales pesados"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuánto tiempo tarda una bolsa de plástico en degradarse?",
+        "opciones": ["10-20 años", "50-80 años", "150-500 años"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuánto tarda una botella de plástico en degradarse en la naturaleza?",
+        "opciones": ["10 años", "100 años", "Entre 100 y 1000 años"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es el efecto invernadero?",
+        "opciones": ["Un fenómeno natural que mantiene la temperatura de la Tierra", "La construcción de invernaderos para plantas", "Un tipo de contaminación del aire"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Cuál de estas es una energía renovable?",
+        "opciones": ["Petróleo", "Gas natural", "Energía solar"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué animal está en peligro de extinción por la pérdida de su hábitat?",
+        "opciones": ["El oso panda", "La paloma común", "El gorrión"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué significa la 'R' de reutilizar?",
+        "opciones": ["Tirar a la basura", "Volver a usar un objeto antes de desecharlo", "Comprar algo nuevo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la principal causa del calentamiento global?",
+        "opciones": ["Las erupciones volcánicas", "La emisión de gases de efecto invernadero", "Los cambios naturales del clima"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué color tiene el contenedor para reciclar vidrio?",
+        "opciones": ["Azul", "Verde", "Amarillo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué color tiene el contenedor para reciclar papel y cartón?",
+        "opciones": ["Azul", "Verde", "Marrón"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué color tiene el contenedor para envases y plásticos?",
+        "opciones": ["Verde", "Rojo", "Amarillo"],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es la deforestación?",
+        "opciones": ["Plantar árboles nuevos", "La tala masiva de bosques", "Podar árboles en ciudades"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+        "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué porcentaje de la superficie terrestre está cubierto por agua?",
+        "opciones": ["50%", "71%", "90%"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la capa de ozono?",
+        "opciones": ["Una capa de contaminación", "Una capa que protege de los rayos UV del sol", "Una nube de humo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué producto daña la capa de ozono?",
+        "opciones": ["El agua", "Los aerosoles con CFC", "El oxígeno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos animales es un depredador tope en el océano?",
+        "opciones": ["El delfín", "El tiburón", "El atún"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un ecosistema?",
+        "opciones": ["Solo los animales de una zona", "Una comunidad de seres vivos y su entorno físico", "Un tipo de planta"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué significa 'biodegradable'?",
+        "opciones": ["Que se puede reciclar infinitamente", "Que se descompone por acción de seres vivos", "Que no se puede quemar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuánto tarda una bolsa de plástico en degradarse?",
+        "opciones": ["15 años", "150 años", "1500 años"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la huella hídrica?",
+        "opciones": ["La marca que deja el agua al secarse", "El volumen total de agua usada para producir algo", "El tamaño de un charco"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estas acciones NO ayuda al medio ambiente?",
+        "opciones": ["Usar transporte público", "Usar pajitas de plástico", "Llevar bolsa reutilizable"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación acústica?",
+        "opciones": ["Ruido excesivo que afecta la salud", "Basura en las calles", "Aire sucio"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué animal es conocido como el 'jardinero del bosque' por dispersar semillas?",
+        "opciones": ["El lobo", "La ardilla", "El águila"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el compostaje?",
+        "opciones": ["Quemar basura", "Transformar residuos orgánicos en abono", "Tirar basura al mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos residuos SÍ va en el contenedor orgánico?",
+        "opciones": ["Cáscara de plátano", "Envase de yogur", "Lata de conservas"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es la energía eólica?",
+        "opciones": ["Energía del sol", "Energía del viento", "Energía del agua"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la energía hidroeléctrica?",
+        "opciones": ["Energía del viento", "Energía del agua en movimiento", "Energía del petróleo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el principal gas de efecto invernadero producido por humanos?",
+        "opciones": ["Oxígeno", "Dióxido de carbono (CO2)", "Hidrógeno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un parque nacional?",
+        "opciones": ["Un parque de diversiones", "Un área natural protegida", "Un estacionamiento grande"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la biodiversidad?",
+        "opciones": ["La variedad de vida en la Tierra", "Un tipo de planta", "Una enfermedad animal"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué animal es indicador de la salud de los ríos?",
+        "opciones": ["Las ranas y anfibios", "Los gatos", "Las palomas"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es la sobrepesca?",
+        "opciones": ["Pescar demasiado, agotando las especies", "Pescar con caña", "Pescar en el mar"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un vertedero?",
+        "opciones": ["Un lugar donde se recicla", "Un sitio donde se acumula basura", "Una planta de energía"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación del suelo?",
+        "opciones": ["Tirar basura y químicos en la tierra", "Regar las plantas", "Arar el campo"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es el smog?",
+        "opciones": ["Un tipo de niebla natural", "Contaminación del aire en ciudades", "Humo de chimeneas rurales"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos es un recurso NO renovable?",
+        "opciones": ["La energía solar", "El petróleo", "El viento"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el desarrollo sostenible?",
+        "opciones": ["Crecer económicamente sin importar el daño", "Satisfacer necesidades actuales sin comprometer el futuro", "Usar solo recursos fósiles"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué animal poliniza la mayoría de las plantas con flores?",
+        "opciones": ["Las abejas", "Los murciélagos", "Las hormigas"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es la erosión del suelo?",
+        "opciones": ["La fertilización del suelo", "El desgaste y pérdida del suelo", "Plantar árboles"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué causa la lluvia ácida?",
+        "opciones": ["Gases contaminantes que se mezclan con el agua de lluvia", "El exceso de sol", "Las nubes normales"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un arrecife de coral?",
+        "opciones": ["Una roca marina", "Un ecosistema marino formado por corales", "Un tipo de alga"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué amenaza principalmente a los arrecifes de coral?",
+        "opciones": ["El frío extremo", "El calentamiento y acidificación del océano", "Las olas grandes"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el reciclaje?",
+        "opciones": ["Tirar todo junto", "Transformar residuos en nuevos productos", "Enterrar basura"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué material tarda más en descomponerse?",
+        "opciones": ["Papel", "Vidrio", "Cáscara de fruta"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la energía geotérmica?",
+        "opciones": ["Energía del calor interno de la Tierra", "Energía del sol", "Energía del viento"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un bioma?",
+        "opciones": ["Un tipo de animal", "Una gran comunidad ecológica con clima similar", "Un insecto"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el bioma más grande del mundo?",
+        "opciones": ["El desierto", "La taiga (bosque boreal)", "La selva tropical"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la fotosíntesis?",
+        "opciones": ["El proceso por el que las plantas producen oxígeno y alimento", "La caída de las hojas", "La reproducción de los árboles"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+        "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué gas liberan las plantas durante la fotosíntesis?",
+        "opciones": ["Dióxido de carbono", "Oxígeno", "Metano"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un species invasora?",
+        "opciones": ["Una especie nativa del lugar", "Una especie que llega y daña el ecosistema local", "Una especie en extinción"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estas es una especie invasora común?",
+        "opciones": ["El lobo ibérico", "El mejillón cebra", "El águila real"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la extinción de una especie?",
+        "opciones": ["Cuando una especie desaparece por completo", "Cuando una especie migra", "Cuando una especie hiberna"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un refugio de fauna?",
+        "opciones": ["Un zoológico", "Un área protegida para animales silvestres", "Una granja"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación lumínica?",
+        "opciones": ["Exceso de luz artificial que afecta ecosistemas", "La luz del sol", "Los rayos"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿A qué animales afecta la contaminación lumínica?",
+        "opciones": ["Solo a los humanos", "A aves migratorias, tortugas e insectos", "A nadie"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un compostador?",
+        "opciones": ["Una máquina de reciclaje", "Un recipiente para hacer abono orgánico", "Una bolsa de basura"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué residuo NO se puede compostar?",
+        "opciones": ["Cáscaras de fruta", "Plásticos", "Restos de verduras"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la agricultura ecológica?",
+        "opciones": ["Agricultura sin pesticidas ni químicos sintéticos", "Agricultura con muchos pesticidas", "Agricultura en invernaderos"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un pesticida?",
+        "opciones": ["Un abono natural", "Un producto químico para matar plagas", "Una semilla"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué problema causan los pesticidas?",
+        "opciones": ["Mejoran el suelo", "Pueden contaminar agua y dañar fauna beneficiosa", "Aumentan la biodiversidad"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la ganadería intensiva?",
+        "opciones": ["Cría de animales en libertad", "Cría masiva de animales en espacios reducidos", "Cría de peces en el mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué impacto ambiental tiene la ganadería intensiva?",
+        "opciones": ["Ninguno", "Genera muchos gases de efecto invernadero y contaminación", "Ayuda a reforestar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el carbono neutro?",
+        "opciones": ["Emitir más CO2 del que se absorbe", "Equilibrar las emisiones de CO2 con su absorción", "No usar energía"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un vehículo eléctrico?",
+        "opciones": ["Un coche que usa gasolina", "Un coche que usa electricidad de baterías", "Un coche de hidrógeno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué ventaja tiene el vehículo eléctrico?",
+        "opciones": ["No contamina en el punto de uso", "Es más barato siempre", "No necesita mantenimiento"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es una reserva natural?",
+        "opciones": ["Un banco de dinero", "Un área protegida para conservar la naturaleza", "Un supermercado"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la sobreexplotación de recursos?",
+        "opciones": ["Usar recursos de forma sostenible", "Usar recursos más rápido de lo que se regeneran", "Ahorrar agua"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un acuífero?",
+        "opciones": ["Un río subterráneo de agua dulce", "Un lago artificial", "Una presa"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué amenaza a los acuíferos?",
+        "opciones": ["La lluvia", "La contaminación y sobreexplotación", "Los peces"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la desertificación?",
+        "opciones": ["La creación de desiertos por acción humana o climática", "Plantar en el desierto", "La lluvia en zonas secas"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué causa la desertificación?",
+        "opciones": ["La reforestación", "La deforestación y el mal uso del suelo", "La lluvia abundante"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un humedal?",
+        "opciones": ["Un terreno seco", "Un área donde el agua es el factor principal del ecosistema", "Un desierto"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué son importantes los humedales?",
+        "opciones": ["No son importantes", "Filtran agua, controlan inundaciones y albergan biodiversidad", "Solo sirven para mosquitos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la migración animal?",
+        "opciones": ["Quedarse siempre en el mismo lugar", "El desplazamiento estacional de animales", "La extinción de especies"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué animal es famoso por su larga migración?",
+        "opciones": ["El gato", "La mariposa monarca", "El perro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una cadena alimenticia?",
+        "opciones": ["Una tienda de comida", "La secuencia de quién se come a quién en un ecosistema", "Un tipo de planta"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué son los productores en un ecosistema?",
+        "opciones": ["Los animales que comen plantas", "Las plantas que producen su propio alimento", "Los hongos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué son los descomponedores?",
+        "opciones": ["Los que producen oxígeno", "Organismos que descomponen materia orgánica muerta", "Los depredadores"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el plancton?",
+        "opciones": ["Un tipo de pez", "Organismos microscópicos que flotan en el agua", "Un alga gigante"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es importante el plancton?",
+        "opciones": ["No es importante", "Produce gran parte del oxígeno y es base de la cadena alimenticia marina", "Solo contamina"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la acidificación del océano?",
+        "opciones": ["El océano se vuelve más dulce", "El aumento de acidez del agua por CO2", "El océano se seca"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué afecta la acidificación del océano?",
+        "opciones": ["A nada", "A corales, moluscos y muchos organismos marinos", "Solo a los humanos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un ODS?",
+        "opciones": ["Un tipo de coche", "Objetivos de Desarrollo Sostenible de la ONU", "Una organización deportiva"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuántos ODS existen?",
+        "opciones": ["10", "17", "25"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el comercio justo?",
+        "opciones": ["Vender muy barato", "Comercio que garantiza condiciones justas a productores", "Comercio sin reglas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la obsolescencia programada?",
+        "opciones": ["Productos diseñados para durar mucho", "Productos diseñados para fallar pronto y ser reemplazados", "Productos gratuitos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué impacto tiene la obsolescencia programada?",
+        "opciones": ["Ninguno", "Genera mucha basura electrónica y desperdicio", "Ayuda al medio ambiente"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la moda rápida (fast fashion)?",
+        "opciones": ["Ropa de alta calidad", "Producción masiva de ropa barata y desechable", "Ropa hecha a mano"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué problema ambiental causa la moda rápida?",
+        "opciones": ["Ninguno", "Enorme consumo de agua y generación de residuos textiles", "Ayuda a reciclar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un producto de km 0?",
+        "opciones": ["Un producto importado", "Un producto producido y consumido localmente", "Un producto muy caro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué ventaja tiene consumir productos de km 0?",
+        "opciones": ["Ninguna", "Reduce la contaminación por transporte y apoya la economía local", "Es más barato siempre"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el plástico de un solo uso?",
+        "opciones": ["Plástico reutilizable", "Plástico desechable tras un solo uso", "Plástico biodegradable"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos es un plástico de un solo uso?",
+        "opciones": ["Una botella reutilizable", "Una pajita (popote) de plástico", "Un tupper"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué son los microplásticos?",
+        "opciones": ["Plásticos muy grandes", "Pequeñas partículas de plástico que contaminan agua y suelo", "Plásticos reciclados"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿De dónde vienen muchos microplásticos?",
+        "opciones": ["De los árboles", "De la degradación de plásticos mayores y productos cosméticos", "De las rocas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la economía circular?",
+        "opciones": ["Producir, usar y tirar", "Un sistema donde los recursos se reutilizan y reciclan continuamente", "Una forma de inversión"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la energía de biomasa?",
+        "opciones": ["Energía del sol", "Energía obtenida de materia orgánica", "Energía del viento"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un techo verde?",
+        "opciones": ["Un techo pintado de verde", "Un techo cubierto de vegetación", "Un techo de plástico"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué beneficio tiene un techo verde?",
+        "opciones": ["Ninguno", "Aísla, reduce calor urbano y mejora la biodiversidad", "Solo es decorativo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una isla de calor urbana?",
+        "opciones": ["Una isla tropical", "Zona urbana con temperatura mayor que las áreas rurales cercanas", "Un volcán"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué causa las islas de calor urbanas?",
+        "opciones": ["Los árboles", "El asfalto, edificios y falta de vegetación", "El mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un huerto urbano?",
+        "opciones": ["Un parque de juegos", "Un espacio para cultivar alimentos en ciudades", "Una tienda"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué beneficio tienen los huertos urbanos?",
+        "opciones": ["Ninguno", "Producción local de alimentos, educación ambiental y cohesión social", "Solo decoran"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación por nitrógeno?",
+        "opciones": ["Exceso de nitrógeno en agua y suelo por fertilizantes", "Falta de nitrógeno", "Nitrógeno puro"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué problema causa el exceso de fertilizantes en ríos?",
+        "opciones": ["Ninguno", "Eutrofización: crecimiento excesivo de algas que mata peces", "Mejora la pesca"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el Protocolo de Kioto?",
+        "opciones": ["Un acuerdo para reducir emisiones de gases de efecto invernadero", "Una receta de cocina", "Un tipo de coche"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es el Acuerdo de París?",
+        "opciones": ["Un tratado de moda", "Un acuerdo global para limitar el calentamiento global", "Un festival"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal del Acuerdo de París?",
+        "opciones": ["Limitar el calentamiento muy por debajo de 2°C", "Aumentar el uso de carbón", "Prohibir los coches"],
+        "correcta": 0
+    },
+    {
+        "pregunta": "¿Qué es un corredor ecológico?",
+        "opciones": ["Una carretera", "Una zona que conecta hábitats para permitir movimiento de especies", "Un pasillo de edificio"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué son importantes los corredores ecológicos?",
+        "opciones": ["No son importantes", "Permiten a las especies migrar, reproducirse y mantener biodiversidad", "Solo son caminos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la reforestación?",
+        "opciones": ["Talar árboles", "Plantar árboles en zonas donde antes había bosque", "Podar ramas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué beneficio tiene la reforestación?",
+        "opciones": ["Ninguno", "Captura CO2, previene erosión y aumenta biodiversidad", "Solo da sombra"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el ecoturismo?",
+        "opciones": ["Turismo masivo en hoteles", "Turismo responsable que conserva el ambiente y beneficia a comunidades locales", "Turismo de compras"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una huella ecológica?",
+        "opciones": ["La marca de un zapato", "El impacto de una persona o comunidad sobre el medio ambiente", "Una huella digital"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un producto orgánico?",
+        "opciones": ["Un producto con químicos sintéticos", "Un producto producido sin pesticidas ni fertilizantes sintéticos", "Un producto importado"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la permacultura?",
+        "opciones": ["Agricultura industrial", "Diseño de sistemas agrícolas sostenibles que imitan la naturaleza", "Jardinería decorativa"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un vehículo de hidrógeno?",
+        "opciones": ["Un coche que usa gasolina", "Un coche que usa hidrógeno y solo emite agua", "Un coche eléctrico común"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la transición energética?",
+        "opciones": ["Seguir usando combustibles fósiles", "El paso de energías fósiles a energías renovables", "Usar más carbón"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un bono de carbono?",
+        "opciones": ["Una multa", "Un permiso para emitir una cantidad determinada de CO2", "Un tipo de moneda"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la justicia ambiental?",
+        "opciones": ["Un juicio a animales", "El trato justo de todas las personas en temas ambientales, sin discriminación", "Una ley de tráfico"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el activismo ambiental?",
+        "opciones": ["Destruir la naturaleza", "Acciones para proteger el medio ambiente y crear conciencia", "Un deporte"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un refugio de biodiversidad?",
+        "opciones": ["Un zoológico", "Un área protegida para conservar especies y ecosistemas", "Una granja industrial"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la educación ambiental?",
+        "opciones": ["Enseñar matemáticas", "Enseñar sobre el medio ambiente para crear conciencia y acción", "Enseñar historia"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un indicador ambiental?",
+        "opciones": ["Un semáforo", "Un dato que mide el estado del medio ambiente", "Una regla"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un ecosistema urbano?",
+        "opciones": ["Un bosque natural", "El conjunto de seres vivos y su entorno en una ciudad", "Un desierto"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué papel juegan los árboles en las ciudades?",
+        "opciones": ["Ninguno", "Reducen calor, mejoran calidad del aire y aumentan biodiversidad", "Solo decoran"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el consumo responsable?",
+        "opciones": ["Comprar sin pensar", "Comprar considerando el impacto ambiental y social", "No comprar nada"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la obsolescencia percibida?",
+        "opciones": ["Productos que realmente fallan", "Cuando un producto funciona pero parece viejo y lo cambiamos", "Productos eternos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un sello ecológico?",
+        "opciones": ["Una etiqueta de precio", "Una certificación de que un producto cumple criterios ambientales", "Un juguete"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la resiliencia ambiental?",
+        "opciones": ["La debilidad de un ecosistema", "La capacidad de un ecosistema de recuperarse ante perturbaciones", "La extinción"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la adaptación al cambio climático?",
+        "opciones": ["Ignorar el problema", "Ajustar sistemas para reducir vulnerabilidad ante el cambio climático", "Aumentar emisiones"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la mitigación del cambio climático?",
+        "opciones": ["Aumentar el problema", "Acciones para reducir emisiones de gases de efecto invernadero", "Construir más fábricas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un desastre natural?",
+        "opciones": ["Una fiesta", "Un evento natural que causa gran daño", "Un accidente de coche"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cómo afecta el cambio climático a los desastres naturales?",
+        "opciones": ["No afecta", "Aumenta su frecuencia e intensidad", "Los elimina"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un refugio climático?",
+        "opciones": ["Una casa normal", "Un lugar protegido ante eventos climáticos extremos", "Una tienda"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la soberanía alimentaria?",
+        "opciones": ["Comprar comida cara", "El derecho de los pueblos a definir sus propios sistemas alimentarios", "Comer solo carne"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la agricultura urbana?",
+        "opciones": ["Agricultura en el campo", "Cultivo de alimentos en ciudades", "Pesca industrial"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un bioindicador?",
+        "opciones": ["Un robot", "Un organismo que indica el estado de salud de un ecosistema", "Un termómetro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la restauración ecológica?",
+        "opciones": ["Destruir ecosistemas", "Ayudar a recuperar ecosistemas degradados", "Construir edificios"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un servicio ecosistémico?",
+        "opciones": ["Un taller mecánico", "Beneficios que los humanos obtienen de los ecosistemas", "Una tienda"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál de estos es un servicio ecosistémico?",
+        "opciones": ["Comprar ropa", "Polinización de cultivos por abejas", "Ver televisión"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación por mercurio?",
+        "opciones": ["Contaminación por agua", "Contaminación por este metal pesado tóxico", "Contaminación por aire puro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Dónde se encuentra comúnmente el mercurio?",
+        "opciones": ["En las frutas", "En pilas, termómetros antiguos y algunos peces grandes", "En el aire puro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la minería sostenible?",
+        "opciones": ["Minería sin control", "Minería que minimiza impacto ambiental y respeta comunidades", "Minería ilegal"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la economía azul?",
+        "opciones": ["Economía del petróleo", "Uso sostenible de los recursos marinos para el crecimiento económico", "Economía de guerra"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un producto vegano?",
+        "opciones": ["Un producto con carne", "Un producto sin ingredientes de origen animal", "Un producto con leche"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué impacto ambiental tiene la dieta basada en plantas?",
+        "opciones": ["Mayor impacto", "Menor huella de carbono y uso de agua que la dieta con mucha carne", "Ningún impacto"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el agua gris?",
+        "opciones": ["Agua de lluvia", "Agua residual doméstica no contaminada con heces (ducha, lavamanos)", "Agua de mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el agua negra?",
+        "opciones": ["Agua de río", "Agua contaminada con heces y materia orgánica", "Agua potable"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la xerojardinería?",
+        "opciones": ["Jardinería con mucho agua", "Jardinería con plantas que requieren poco agua", "Jardinería en invierno"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un jardín de lluvia?",
+        "opciones": ["Un jardín bajo techo", "Un jardín diseñado para captar y filtrar agua de lluvia", "Un jardín seco"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la captación de agua de lluvia?",
+        "opciones": ["Comprar agua embotellada", "Recoger y almacenar agua de lluvia para uso", "Desalinizar agua de mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un biodigestor?",
+        "opciones": ["Una máquina de gimnasio", "Un sistema que transforma residuos orgánicos en biogás y abono", "Una olla a presión"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el biogás?",
+        "opciones": ["Gas natural", "Gas producido por descomposición de materia orgánica", "Gas de petróleo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una cooperativa energética?",
+        "opciones": ["Una empresa petrolera", "Una comunidad que produce y gestiona su propia energía renovable", "Un banco"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el autoconsumo energético?",
+        "opciones": ["Comprar toda la energía", "Producir tu propia energía (ej: con paneles solares) para tu uso", "No usar energía"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una smart grid (red inteligente)?",
+        "opciones": ["Una red social", "Una red eléctrica que optimiza distribución y consumo de energía", "Una red de agua"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la movilidad sostenible?",
+        "opciones": ["Usar solo coches grandes", "Uso de transportes con bajo impacto ambiental (bicicleta, transporte público, eléctrico)", "Caminar descalzo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el carpooling?",
+        "opciones": ["Conducir solo", "Compartir coche con varias personas para ir al mismo destino", "Comprar un coche"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el bike sharing?",
+        "opciones": ["Regalar bicicletas", "Sistema de alquiler de bicicletas públicas para trayectos cortos", "Fabricar bicicletas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una zona de bajas emisiones?",
+        "opciones": ["Una zona sin reglas", "Un área urbana donde se restringe el tráfico más contaminante", "Una zona industrial"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la gentrificación verde?",
+        "opciones": ["Algo positivo siempre", "Cuando mejoras ambientales en un barrio desplazan a residentes originales por subida de precios", "Plantar árboles"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un ecobarrio?",
+        "opciones": ["Un barrio normal", "Un barrio diseñado con criterios de sostenibilidad ambiental y social", "Un barrio industrial"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es una casa pasiva?",
+        "opciones": ["Una casa abandonada", "Una casa con muy bajo consumo energético gracias a su diseño", "Una casa sin ventanas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un edificio de energía neta cero?",
+        "opciones": ["Un edificio sin luz", "Un edificio que produce tanta energía como la que consume", "Un edificio en ruinas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la certificación LEED?",
+        "opciones": ["Una marca de coches", "Una certificación de sostenibilidad para edificios", "Un tipo de comida"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un producto local?",
+        "opciones": ["Un producto importado de lejos", "Un producto elaborado cerca de donde se consume", "Un producto muy caro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un mercado de productores?",
+        "opciones": ["Un supermercado", "Un lugar donde productores locales venden directamente sus productos", "Una tienda de ropa"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la temporada de un alimento?",
+        "opciones": ["El precio", "La época del año en que un alimento se produce naturalmente en la zona", "El sabor"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Por qué es mejor consumir alimentos de temporada?",
+        "opciones": ["Son más caros", "Requieren menos energía de transporte y almacenamiento", "Saben peor"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un alimento transgénico?",
+        "opciones": ["Un alimento natural", "Un alimento cuyo material genético ha sido modificado en laboratorio", "Un alimento orgánico"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué controversia generan los transgénicos?",
+        "opciones": ["Ninguna", "Posibles impactos en biodiversidad y salud, y control corporativo de semillas", "Son siempre buenos"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la soberanía de semillas?",
+        "opciones": ["Comprar semillas caras", "El derecho de agricultores a guardar, usar e intercambiar sus propias semillas", "Semillas de oro"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un banco de semillas?",
+        "opciones": ["Un banco de dinero", "Un lugar donde se conservan semillas de diversas variedades para preservar biodiversidad", "Una tienda"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la agroecología?",
+        "opciones": ["Agricultura con muchos químicos", "Aplicación de principios ecológicos a la agricultura", "Ganadería intensiva"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la rotación de cultivos?",
+        "opciones": ["Plantar siempre lo mismo", "Alternar diferentes cultivos en un mismo suelo para mantener su fertilidad", "No plantar nada"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué beneficio tiene la rotación de cultivos?",
+        "opciones": ["Ninguno", "Mejora la salud del suelo y reduce plagas", "Agota el suelo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el control biológico de plagas?",
+        "opciones": ["Usar pesticidas fuertes", "Usar enemigos naturales (otros organismos) para controlar plagas", "No hacer nada"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un insecto polinizador?",
+        "opciones": ["Un insecto que come plantas", "Un insecto que transporta polen entre flores", "Un insecto que pica"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué amenaza a los polinizadores?",
+        "opciones": ["Las flores", "Pesticidas, pérdida de hábitat y cambio climático", "El sol"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un hotel de insectos?",
+        "opciones": ["Un hotel de lujo", "Una estructura para albergar insectos beneficiosos", "Una trampa"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la apicultura urbana?",
+        "opciones": ["Criar vacas en ciudad", "Cría de abejas en entornos urbanos", "Pescar en ciudad"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué beneficio tienen las abejas en ciudades?",
+        "opciones": ["Ninguno", "Polinizan plantas urbanas y producen miel local", "Solo pican"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la contaminación por fármacos?",
+        "opciones": ["Tomar medicinas", "Presencia de restos de medicamentos en aguas por uso humano y animal", "Fabricar medicinas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cómo llegan los fármacos al agua?",
+        "opciones": ["Por la lluvia", "Por excreción humana y desecho incorrecto, y las depuradoras no los filtran todos", "Por el mar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la biorremediación?",
+        "opciones": ["Contaminar más", "Uso de organismos vivos para limpiar contaminantes", "Quemar basura"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué organismo se usa a menudo en biorremediación?",
+        "opciones": ["Leones", "Bacterias y hongos que degradan contaminantes", "Peces grandes"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la fitorremediación?",
+        "opciones": ["Contaminar con plantas", "Uso de plantas para absorber o degradar contaminantes del suelo o agua", "Cortar plantas"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un techos solar?",
+        "opciones": ["Un techo pintado de amarillo", "Un techo con paneles solares para generar electricidad", "Un techo de paja"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un calentador solar de agua?",
+        "opciones": ["Una estufa eléctrica", "Un dispositivo que usa energía solar para calentar agua", "Una chimenea"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la eficiencia energética?",
+        "opciones": ["Usar más energía", "Usar menos energía para obtener el mismo resultado", "No usar energía"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué electrodoméstico tiene etiqueta energética?",
+        "opciones": ["Ninguno", "La mayoría, indicando su consumo de energía (A, B, C...)", "Solo las luces"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué significa etiqueta energética A?",
+        "opciones": ["Mayor consumo", "Máxima eficiencia energética", "Producto viejo"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un LED?",
+        "opciones": ["Un tipo de televisor", "Un tipo de bombilla de bajo consumo y larga duración", "Un tipo de cable"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuánta energía ahorra un LED respecto a una bombilla incandescente?",
+        "opciones": ["Nada", "Hasta un 80-90%", "Un 10%"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el standby o consumo vampiro?",
+        "opciones": ["Un modo de ahorro", "Consumo eléctrico de aparatos apagados pero enchufados", "Un tipo de batería"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cómo evitar el consumo vampiro?",
+        "opciones": ["Dejando todo enchufado", "Desenchufando aparatos o usando regletas con interruptor", "No se puede evitar"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es la huella de carbono de un producto?",
+        "opciones": ["El peso del producto", "Total de emisiones de gases de efecto invernadero en su ciclo de vida", "Su precio"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el etiquetado de huella de carbono?",
+        "opciones": ["Una etiqueta de precio", "Información en productos sobre sus emisiones de CO2", "Una etiqueta de talla"],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es un producto con certificación Fairtrade?",
+        "opciones": ["Un producto barato", "Un producto que garantiza condiciones justas para productores en países en desarrollo", "Un producto importado"],
+        "correcta": 1
+    }
+]
