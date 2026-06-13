@@ -1,2 +1,2 @@
-debe haber un grupo llamado "greenguard" \n
+debe haber un grupo llamado "greenguard"
 ver los comandos con $help
